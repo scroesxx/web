@@ -1,0 +1,29 @@
+
+h1:hover + a {
+    color:aqua
+}
+
+*{
+margin: 0px;
+}
+header{
+    width: 100%;
+    display: flex;
+    background-color: rgb(255, 145, 0);
+    height: 80px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    height: 100px;
+    width: 80%;
+    align-items: end;
+    justify-content: space-around;
+}
+img{
+    width: 50px;
+    height: 50px
+}
+
